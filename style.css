@@ -65,7 +65,7 @@ h4{
     box-shadow:10px 10px 20px grey;
     width:20%;
     margin-top: 1%;
-    margin-left: 4%;
+    margin-left: 3%;
     margin-right: 9%;
     padding-left: 1%;
     padding-right: 1%;
@@ -74,13 +74,8 @@ h4{
     
 }
 
-#biriyani{
-    border-left: 1%;
-    border-right: 1%;
-    border-image-slice: 1;
-    
-    
-}
+
+
 
 
 #border{
