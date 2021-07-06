@@ -12,6 +12,7 @@ h1{
 }
 h2{
     font-size:40px;
+    text-align: center;
 }
 
 .yellow-color{
@@ -67,4 +68,15 @@ h2{
 
 #border{
     border-radius: 20px;
+}
+
+.ending{
+    text-align: center;
+    
+    padding-bottom: 50px;
+}
+
+.black{
+    background-color:black;
+    
 }
