@@ -23,6 +23,8 @@ h4{
 }
 .flexible-container{
     display: flex;
+    padding-left: 1%;
+    padding-right: 1%;
     
 }
 
@@ -41,7 +43,7 @@ h4{
     background-image: linear-gradient(red, orange);
     color: white;
     font-weight: 700;
-    border-radius: 30px;
+    border-radius: 20px;
 }
 
 .bio{
@@ -114,6 +116,7 @@ h4{
 
 .create-box{
     box-shadow:5px 10px 30px grey;
+    
 }
 .branch-location{
     
